@@ -1,0 +1,13 @@
+{
+  "name": "lets-make-a-map",
+  "version": "1.0.0",
+  "description": "This is based on mike bostock's 'let's make a map' project: https://medium.com/@mbostock/command-line-cartography-part-1-897aa8f8ca2c",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
